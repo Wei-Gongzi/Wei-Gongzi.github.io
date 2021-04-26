@@ -1,7 +1,7 @@
 # My pages
 ## Notes
 ### Math
-- [Notes for Linear Algebra Done Right](Wei-Gongzi.github.io/Linear_Algebra_Done_Right_Notes.html)
+- [Notes for Linear Algebra Done Right](https://Wei-Gongzi.github.io/Linear_Algebra_Done_Right_Notes.html)
 
 ## It's based on GitHub Pages
 
